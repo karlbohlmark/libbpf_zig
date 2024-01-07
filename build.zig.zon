@@ -11,8 +11,8 @@
             .hash = "1220fc4b799253e8d6659825881a3d433bc072c140aaeaab73eeda01076cecea0402",
         },
         .elfutils = .{
-            .url = "https://github.com/tw4452852/elfutils/archive/refs/tags/0.190.0.tar.gz",
-            .hash = "1220d62c293f5366e13b9662fe57d70c198228eb94ae5daaec68ec9759e120e7fcd9",
+            .url = "https://github.com/karlbohlmark/elfutils/archive/update-zig-master.tar.gz",
+            .hash = "1220ff8c4d1b6edd04acb6d2aa37ebda8e22ef6abaebb55887774e80ad0111c36bb1",
         },
     },
     .paths = .{
